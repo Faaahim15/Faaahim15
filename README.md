@@ -5,7 +5,7 @@ I wrote this with the help of ChatGPT... hehehe ..just saying..umm
 
 Welcome to my GitHub! I'm passionate about **computers**, **programming**, and the vast possibilities within **computer science**. My goal is to keep exploring and learning, from coding and software development to diving into **business**, **finance**, and **entrepreneurship**.
 
-Currently, I’m a **Class 12 student** juggling my studies with my tech and business ambitions.
+I’m a **Class 12 passout** juggling my studies with my tech and business ambitions.
 
 ## What I’m Learning 📚
 - **Programming**: Currently diving into multiple languages and frameworks.
