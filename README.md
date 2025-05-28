@@ -1,5 +1,4 @@
 # Hi, I'm Fahimuz Zaman Khan 👋
-I wrote this with the help of ChatGPT... hehehe ..just saying..umm
 
 **Username**: [@Faaahim15](https://github.com/Faaahim15)
 
