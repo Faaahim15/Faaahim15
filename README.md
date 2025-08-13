@@ -18,6 +18,7 @@ I’m always open to new opportunities and collaborations, so feel free to reach
 
 ## How to Reach Me 📬
 - **Instagram**: [@fahim.things](https://www.instagram.com/fahim.things/)
+- **LinkedIn**: [Fahimuz Zaman Khan](https://www.linkedin.com/in/fahimuz-zaman-khan-004b2828a/)
 - **Email**: [fahimuzzamankhan4@gmail.com](mailto:fahimuzzamankhan4@gmail.com)
 
 Feel free to connect with me for collaborations, ideas, or just to chat about tech and business.
