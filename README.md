@@ -17,7 +17,7 @@ I’m a **Class 12 passout**, now pursuing **BSc (Hons.) in Data Science & Artif
 ## 💡 I’m Looking to Collaborate On
 - **Open Source Projects**
 - **Tech Development**
-- **Business & Finance Startups**
+- **Business & Startups**
 
 ---
 
