@@ -22,8 +22,8 @@ I’m a **Class 12 passout**, now pursuing **BSc (Hons.) in Data Science & Artif
 ---
 
 ## 📬 How to Reach Me
-- **Instagram**: [@fahim.things](https://www.instagram.com/fahim.things/)
-- **LinkedIn**: [Fahimuz Zaman Khan](https://www.linkedin.com/in/fahimuz-zaman-khan-004b2828a/)
+- **Instagram**: [@byfah1m](https://www.instagram.com/byfah1m/)
+- **LinkedIn**: [Fahimuz Z. Khan](https://www.linkedin.com/in/fahimuz-z-khan-004b2828a)
 - **Email**: [fahimuzzamankhan4@gmail.com](mailto:fahimuzzamankhan4@gmail.com)
 
 ---
